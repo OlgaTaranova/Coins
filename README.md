@@ -1,1 +1,1 @@
-This is a project "Coins".   https://OlgaTaranova.github.io/coins
+This is a project "Coins".   https://olgataranova.github.io/coins/
