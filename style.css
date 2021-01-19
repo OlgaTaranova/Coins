@@ -7,7 +7,7 @@ html {
     font-size: 10px;
 }
 body {
-    width: 100vw;
+    width: 100%;
     padding: 0 10%;
 }
 .content_wrapper {
